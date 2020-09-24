@@ -1,3 +1,5 @@
+# https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
 # https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html
 # Reference
 # This tech report (Chapter 3) describes the dataset and the methodogy 
